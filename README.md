@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This repository contains enrichment_utils, a package providing convenience functions which wrap around the useful [goatools](https://github.com/tanghaibao/goatools) package. 
+This repository contains enrichment_utils, a package providing convenience functions which wrap around the useful [goatools](https://github.com/tanghaibao/goatools) package. It is designed specifically to allow gene set enrichment to be performed on single-cell datasets in [anndata](https://anndata.readthedocs.io/en/latest/) format, analysed using [CDR-g](https://cdr-g.readthedocs.io/en/latest/) (CDR-genomics) pacakge.
 
 ### References
 
